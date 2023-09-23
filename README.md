@@ -1,2 +1,2 @@
-# react_django_demo_app
-A demo app for React and Django Deployment
+# React-django-todo-app
+To do application build on python &amp; reactJS with sql db.
